@@ -2,7 +2,8 @@
   "package": [
     {
       "language": "clike",
-      "url": "bronystylecrazy.github.io/esp8266-cpp"
+      "url": "bronystylecrazy.github.io/esp8266-cpp",
+      "main": "index.cpp"
     }
   ]
 }
