@@ -1,0 +1,11 @@
+{
+  "name": "bronystylecrazy.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bronystylecrazy/bronystylecrazy.github.io.git",
+  "author": "Sirawit Pratoomsuwan <s36526@bj.ac.th>",
+  "license": "MIT",
+  "scripts": {
+    "push": "git add . && git commit -a -m \"pushed by scripter\" && git push -u origin master"
+  }
+}
