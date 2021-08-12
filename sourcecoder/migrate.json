@@ -1,8 +1,0 @@
-{
-  "package": [
-    {
-      "language": "clike",
-      "file": "/esp8266-cpp/index.cpp"
-    }
-  ]
-}
