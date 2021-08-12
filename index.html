@@ -1,4 +1,7 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sirawit Pratoomsuwan</title></head><body><div id="app">{{projects}}<h1>My projects</h1><ul><li v-for="project in projects" :key="JSON.stringify(project)"><a :href="project.main">{{project.name}}</a><img :src="project.preview"></li></ul></div><script src="./api/vue.js"></script><script>new Vue({
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sirawit Pratoomsuwan</title><style>@import url('https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,200;0,300;1,200&display=swap');
+        *{
+            font-family: 'Sarabun', sans-serif;
+        }</style></head><body><div id="app"><h1>My projects</h1><ul><li v-for="project in projects" :key="JSON.stringify(project)"><a :href="project.main">{{project.name}}</a><br><img :src="project.preview" style="max-width: 200px; width: 100%;"></li></ul></div><script src="./api/vue.js"></script><script>new Vue({
             el: '#app',
             data: {
                 projects: []
