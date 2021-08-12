@@ -1,1 +1,426 @@
-for(a="0e1M1X1f2J1d2h1b3F1`3d1^2i1[2d1Y3<3@1R1U3]1S3M3Z1P3^1N3P3c1A1J3O1H3V1F3I1D3a1B2_301/1>3N1<3G1:2Q183+163:12132c2j10393e1+1,2X380j3`0h3L0f2`2a080O0V0`3_0^3K0[2Y0Y3b0W363g0T2L0R2N0P3f3h0G0L270J3R0H2[3W0E240C2f0?0@2]2^0=330;2b09373A/e/h043X022R003-0,0-2P2T0*3,/i3T3i/f2U3Y/H/b3S/^/_2Z3=/[3Q/Y2e/W3U/K/N/Q/R323?/O2O31/L3/3J/I3C3[/D/E2S3E/@/A2V2W/>3./<2g/:3>/82K2M",l=new Array;a.length;)l.push((Y(a.charCodeAt(0))<<6)+Y(a.charCodeAt(1))-512),a=a.slice(2,a.length);function Y(J){return J>92&&J--,J-42}function B(){return 0==a&&(b=Y(d.charCodeAt(e++)),a=6),b>>--a&1}for(d="SCG.:8V,F[aYe5Y2:+*FhJT17c-5Z3`5**+,UKQ,cL:6*JhDXSB**2?F6cS6GR?*28O`5**+,UKQ2L]_ZZ+*FhJT17c-2bJ=T@*****2?F6cA.<+Q,bM?C0gXSB*****K?Z^LN[aK>0K*C[<Bf:TXSB**3h5**+,UKQ,]2@P0*2-QV/:dY*C0g,G<Z****+,UKQ,cL:6chJ`A-RC0gXSB*****K?Z^LN[aK>0K*C[<Bf:TXSB**3h5**+,UKQ2EeZ3^1B+*FhJT17c-5Z3`5*****+.Jg=*:TcCZX2N-8ChYP6P^E]eOJ**Q_W9SDOMQV/:dY*ChQ]B4a[6SSYJ::i1J=T@**+G.:,*23<XSB**/_;*[G<Z**5RL+,eOJ**A;.+g*JhNVVW5c.OOSSI*NW6W5c.OSSSI*O6VW5c.SOSSI*O76W5c.SSSSI*O6VVW5c.SOOSSI*O6W6W5c.SOSSSI*O76VW5c.SSOSSI*O776W5c.SSSSSI*DXSB**/_;*6*JO4eOJ**8a:6O_;*c*JeA+Z9c22I+[<Bf:TX-PWH+8SB*****Z*JJKg1,TRLCWV;XKO^]eOJ****-KZCB*:Je1bOc.IMcB*:Je1Y[AJ=T@********60K+2BBBBBD:D,,1ZF4TL2b:]dcd-I@+8BfC?Qj]eOJ****,H,46JF8-55RIH?JjK+J6dQ*Z1g28KhcGc.IMcCG-f`X-i.0*^PF-*IZJe1Ub=Z2j1Z]e1Y^c9c:B-8CZ6+j,-RHjh9*MgI-5RIIQZIZJZ0F^JB-i.1:ij1HH+8SB*******,70QRR]+Zf26XKhd_-i.0*^PF-*IZJe1bKbJ;i9KO_9Y@c9c:B*:Je1Ub=Z2j1Z]-RHj9JjK+J6dQ*Z1g28Kfj_-Z2j1Z]-RIIQZIZJZ0F^JB-i.1:ij1+c1NeOJ*******-+R:::i-K?>;0e0A95T@*****3c2R]+Zc6VXKhf_-i.0*^PF-*IZJe1bRig,9[g6XKfj@-i.0*^PF-*IZJe1Yfjdc.eOJ*******81+NEZ,+R:<0O27*B7+2D@SA>V********:7,,DB7+3]:D+hfJ9c8Keh_+YRB-e1:ihe+b+J9RG-bej7+R3DOG<Z*******+J..SA>V*****=Z;;N-KZCB*:Je1YdAJ=JM;JE4E>V*******+Zc6MH*:7,,:_S+R-+R3-<`4eOJ*******,+R:<]jf`U:_KSHH]-:==+R385=57DOG<Z*******+J..SA>V*****=Z;;N-KZCB*:Je1YdbJ=JM;JEEE>V*******+Zc6MH*:7,,:_S+R-+R3-<`4eOJ*******,+R:==+R385=DOG<Z*******+J..SA>V*****=Z;;N-KZCB*:Je1bdHg,F.D6-CdW<Z*******1-J]7c+*_23-<N0J60JN75>UT@********20K+760JNcVWT?`5********0*:<OG<Z****+9+/0:81+OJ+,-RIIQfZ3Z;RZ7QP`5********F8-2bJ.-:JN74:D*ZD,:_W<XSB********JD.._ZD,=LaSA>V********B++4?`5*****.g.>C*cF0@*jJUAMI9*Q>V*******+Zc6MH*:7,,:_S+R-A>V********LM2+*_23-<OG<Z*******+*_23-----<`27+K]0iV,F[a]Edcc;,`;/3O0heIEg`0fI*8HZ?-Pg+N?c.eOJ**********2N1LB,DB7+3]:D+he>_0JOT?5********=j5T@********6*JO4eOJ****,H,46J=T@********cF0;Y*20K+2D>J_+UT@********;;N*JD..KS<XSB********JD..KKKKKSDN0JPP-:<F@`27+K]0iV,F[a]U9jMK.5?.>P>EbSh1_A_dT7adg*df+>8EZ0;AJ=T@***********L:H3J3SJ_.Q3+R1bSF;-3IBKN?g,Vji7+R3DO<Z*******.j]eOJ*******-*23<XSB*****Q_V**.iOJ**cF0;Y*20K+2D>J_+J_.KSDOG<`5***:+>V*****==+R3,^j`Te:DSB*****PP-:</8@@@fWDN0JPP-:<i====GaAjHWD0N75^a:D,DB7+3UcVW7bD`27+760JOgP@P@fVYihD_72DAQVJ_._ZD,=A[DCEX`T:DSB*****PP-:<i=5==Ga>eIRD:_Y9C+R3SJ_.PYN_]_bGO27+760JOf27+760JN`RD:_Y9C+R3SJ_.PYL__bGU>J_._ZD,A]DDCEX]jcD:_W-<0Odf27>V*****==+R37I3OOXf@S+R3SJ_.YN]_bGU>J_._ZD,A]DCCEX]Q=h-<0Odf27+760JN`gPP@fWDN0JPP-:<i===GaW<-:==+R3I3OOOXf@S+R3SJ_.YN]]_bGU>J_._ZD,>ie:DSB*****PP-:<FP@/27>V*****<]N0JPP-:<FP@/27+760JORD:_Y9C+R3SJ_.Q3OSPW<-?5*****.VS+R3SJ_.Q/SK<-:==+R38=5H]-:==+R3855=7HDN0T@*****3C<-:==+R38==,]N0JPP-:<FP_72DAQVJ_._ZD,=L]_^APS+TOJ****,@@Aj<-:==+R3HD0N75^a:D,DB7+3[DDCU>J`<Z****+54:D,DB7+3[CB>J_._ZD,=N]bVJ_._ZD,=N_]^APS+TOJ****,@>J_._ZD,=NZVYi0N75:_KSHH]-:==+R3855=7HDN0T@*****3C<-:==+R385,]jcD:_W-<0Odf27+760JNcW6V`dT:DSB*****PP-:<FP@hN0JPP-:<FP@PD`27>V*****==+R3855DN0T@*****3SJ_.Q/SW<-?5*****._ZD,=N`_J`<Z****+760JNd764:DSB*****PP-:<FP`27>V*****<]jcD:_W-<0Odf27+760JNcW76`T:DSB*****PP-:<F@@`27>V*****==+R385DN0T@*****3SJ_.Q3W<-?5*****._ZD,=N_`_J`<Z****+760JNd654:D,DB7+3[CCE^a:D,DB7+3]CCUa:D,DB7+3]CCTe:DSB*****PP-:<FP]N0JPP-:<FP]N0JPP-:<FPP_72BBD:_W<-:.-:<0N6672DAPAQPAO_UT@SB**,3+cP*3G<_iOT@8HZ?-Pg+I_AH<i[-I@+8BfCGI*Q>V**1>++`J=P8Zj2@T2S6S--<i+2BBBDAZ8YO`5**+`*:GB.dMV9]/TL4=4:_SI*N6674AZ8YO`5**+`*:GB.dMV9]/TL4=4:a3I*N67LAZ8YO`5***;29.Z1@eOSh5>VFhJT17c-9FJEjE^Ze,0]dc.eOJ**a*JAU]eOJ**cF0A1,TRL7_6XQJ,.-DVag,G<Z****+V7,,hY5T@**,I<Z**F8-5MK?>;0e0?EZ+,+W@EH+8SB*****a0K+@IfT@**,I<Z**F8-5MK?>;0e0?dc*K*aU7Y*Q>V*****E-:JEdG<Z**=e@**-KZCFF4TL2b:]YI*.20`CWc.eOJ****-BD.,hG<Z**=e@**-KZCFF4TL2b:]AY*.20`CWc.eOJ****-BD./dG<Z**=e@**-KZCFF4TL2b:]IY*.20`CWc.eOJ****-BD./DeOJ**Q_V**1-J]a*g2+hHH+8SB*****bU?`5**+9SB**,3+cP*eZ3^1CZcPeiDT2PEE.]bdG<_iOT@8HZ?-Pg+PbA52KMCWc8c<YOc.eOJ**cF0;@g1F3A]Nb.:+abJ6g;*K?/*+abJMRV:,0ZCV2?F6b_*YR*?/J2;Gd*L+@gGJK]XQj<gg,G<Z****+PbA52KMCWV=5]eOJ**Q_W9SDOMQV/:dY*CW`]]2BaEE.]aXg,G<Z**;RZIWK^12FL>+LRV>V**,e2J;d2::KJ.0.MJEL.L1CAMgjiA>V**,e2J;d2::PEE.6*JZNF-F:N:f4gIQj]eOT@***UH-E>MLWhVSAjVQHdMV-MMNY5T@***UH-E>MLWhVSCWYBK^1B2gN22:_Y5T@SB**-WN-5J,-SF1*jJY1djX-PWH+8SB*****M]:JK-HgD*:G5T@**,I<`5***GVJCF*:G5Jc1g0`^LN[aK?F17Dg,G<Z****+1NK+,0haXF4TL3Pa[0e0A90WDXSB**3h5>V**.D6*+jTX0-KJL,,0K^1B2.;4@**,70**YR*DUE]P*@=E1LN,2/F7*/Ff]+,UKXeOJ**M;J*********/OY:+SCDOJ**M;J*****9:+U9gj*****6j^j_*D@@SB**2_B****1fR**-h@*****1eg****^j9j:+TOJ**M;J********************IU_**1dHSB**2_DOJ**M;J*2gN22:bUh_D*:AeeOJ**M;J*2gN22:bUh@D*:9h`5**+0M**;d2::KYAegD*:9``5**+0M**;d2::KYAehD*:AO`5**+0M**;d2::KYAdHD*:?UT@SB**2_B6gh[=*L-YJgFGALZ.,2J1.bA,/<*S2::J/EH[*-L3bhd6/F:`5***XL2-Xa31NK+,*2631*b.3.8]IT`ddG<Z**5RL*fWLCWYBJ*JZNF-F:N:f3iUAQO`5***XL2-Xa3PTcSOB++K2c0cK2Ka=h@Y95T@**+G.:1GV=7?[=5Z++K2c0cK2Ka=h@Y95T@**+`-c7e2LBJ*JeA>W<Z**/EZEDNF?YWO57Y+R.H4K^1B6EBJ4cD.Y5T@***fC*]c*JeA+Z9c5[iIfJdUAJ=T@*****81+O1NK+,0hc_*g1=Z3`5********8fBNH<..3eeKg0h.;6:D*:FXSB*******+bE.^EH[-``-c7e2LBJ_*JM]:JK-HgDXSB*******+bE.^?F>]WeeKg0h.;6:D*:ID``5********8fBPDULPAQUT1ZE_;.[+R++hUA>V********eKg0h.;6:`TeOJ****,I<Z**=e@SB**2_B6gh[>*[WL*UKR8*-Xcc,W`bb6207V:Z:a/H5Y2.::2L>V**+@g0aS1/EfC<^EZD+1LRF[a,+.<AO`5**+`U[4>KR8fBOc*JUA>V**.G?[<+O`U[4>KR8fBOc1j,-f@g,G<Z****+`U[4>KR8fBOB++hUA>V*****GDg<O2D-Xa3H*29WDeOT@*****-WN-5J,-SF1*jJG:i-HL2P2A+^@Y*Q>V*******+Zc6QGV=7Wf.9H7*9+_g,G<Z**********F8-5UAL>S-:Ga[4Z,.1aWc.eOJ************-UAL>S-:Ga[4Z,-O`5**********+9+/0:81+O`U[4>KR8fBOc*K+hUH+8SB*************cF0=Xa3PahL1Y0JjJGa[6abV:he`cO4:_1GV<V`c.eOJ***************8WH3<N7+bE.Y*.1@Y.S<0JfWL?UT@****************e`cO4:_1GV<V*JdG<Z************+9+/0:3`5****************GDg<O2D-Xa3H*28A>V*************=e@**********,H,46JF8-3bE.^EH[-bM:IZJGa[6abV:he`cO4:_1GV<V`c.eOJ************-UAL>S-:Ga[5Z++`U[4>KR8fBODeOJ************-UAL>S-:Ga[4Z,-O`5**********+9SB*******,I<Z****+9SDOJ****-KZCGDg<O2D-Xa3H+jZJi`Y*Q>V********fWLCWYBKeeKg0h.;6:D*:8fBPEEa2HhDg<O2D-Xa3@D-:8fBPEEa2HhDg<O2D-Xa3H7A>V********fWLCWYBKf`U[4>KR8fBOCR++_XSB*******+bE.^EH[-bUAL>S-:Ga[5[R++_XSB*******,70*INA2:]6-UAL>S-:Ga[*ZhAI2:Z?2;*8a:7NBK8Bf+^*:T:2.;4@********Ga[6`A/6UHXRI+Y;.=.0J.1@Y.S<0JfWLAO`5********8fBPDULPAQUT1ZE_;.[+R++`U[4>KR8fBODeOJ*******1>9JbRL3L0WA>V*****=e@**,I<`5**+0M+Ie+?.X:,Wc7*M[>.B.4N-0a2CZ*Gb1*;2cQ22.4N+A-:-P2E,2-F[a>O5**+0M+.:N:d]OJ**M;Jj`<*XL>gJE8,5*;.3.8+/3A=.*MX4>-d*5aEN85N-KZFJ1-+,S4@**,70*TT2N;>.2+@a2.FJ;_@28*-IR?2<8cC9JFJ-cN@,TN6c*IeS*>K_*I.LZ??<Z**;RZ;b/4+gJ:T:62I*2L.L1*LNUSL-J+jTN+G.Sd*aF.4N,2K2KZ;b/4+gO5**+0M+OVcc]:-8KhUHI*MTX/?+ZZ:T:,Ff?:+g<5+?=O5***?Y+WT;[@ia>UiLfb6GJ8dL3:;.3.8OdG<Z**5RL*Yg[.SbE.6*JEL.L1C8RI+Y;.=.95T@**+G.:9]/ZTYV6:g+*b.3.8]Y1djgXSB**9]/ZT*:G5T@**+`-c5j6;4*:G5T@**-gKF4Uf-.9hj2A,SR++`U[4>KR8fBODeOJ**MTX4:6Y]/ZT*H.1=Z3`5*****1-J]Ga[6`A/6UHjN5K?IBBKjYd,c?77*9+hU+Q6c-Xa3PTcSOdfi:X/?hKL1ijN5K>__*g1aWc.eOJ*******2_B5cc2?2;*cB2J>K_*LZZ,Ff?:i*@gDR2?3A-H*K>J0K.?bT@********cZg+*fWLCTX4C@hj2A,TiZ[-jI]/ZTDDXSB*******+bE.^?F>]Wfi:X/?hKL1ijN5K>__*JibJI:G:i,j^.<UT@********j2A,U@UT@********j2A,TiZ[-jI]/ZTD*:FBIG<Z*******-T1ZAiBL?U?`5*****.g.>C*cF0=Xa3PTcSOEbgKF4Uf-.9hj2A,SSR9c8JC^8*fWLCTX4CHHjN5K?IBBKjYd,c?77*9+hUH+8SB*******,70,i8,/<.:80,2/2G*2V6,2,Ff?:i*iHJ.4N+<1:,8L6.2XgP9O5********;RZ/Y0T,/<*=QDT*EZ.4N*_2LXgd<Z*******.D61I.WN>.,/<*Yg[.SbE.7e_.G]/::T:/E4LK^H*8a:2?2+8GTR>V*******+0M*i3/JTS]OJ*******869*:8fBPDULP?YI]/ZTYV6:jbgKF4PPUT@********cZg++_-e101b>V*******+[KcI;+HA>V********Yg[.SbE.7f[Kf:,-eeKg/jP2OA>W<Z*******.D61i3.X:KN*Q8`>*I.LZ??<Z*******101J21GV=7?[=5^bgKF4Uf-.9hj2A,SSTeOJ*******1GV=7?[=5^bgKF4Uf-.9hj2A,SSR++hY5T@********j2A,U@UT@********j2A,TiZ[-jI]/ZTD*:FBIG<Z****+9+/0:81+NfWLCTX4C@hj2A,TiZ[-jI]/ZTDD-i-f@-8CZ1GV=7?[=5^bgKF4Uf-.9hj2A,SSR9c9WEZ3`5********;RZA[Z:T:L+1;0,2/2G*2V6,2,Ff?:i*iHJ.4N1+12;*IEK>.2XgP9J/f5+cV2J>Ld/>V*******+i:X/AbfG<Z****+9+/0:81+NfWLCTX4C@hj2A,TiZ[-jI]/ZTDD*:Ji`J^PF+bE.^?F>]ghj2A,TiZ[-jI]/ZTDD*:Ji`Y*Q>V*******+0M+I1+12/><d*L*TULP+>K.i+.[JFJ.7K,S*8dL3:Ba[-I*5a@-[G5********5j6;4Ga[-HXRI+IdL3=:,+bE.M]:JK9I]/ZTYV6:jbgKF4PPUT@********G:i,j^.<WDXSB*******-gKF4YYaeOJ****,H,46J=T@********M;Jj`A-*DUE]PBE:+/].,T2VW6>V*******+.S,:]ECe3J;4fE3]/?IjPbO`5********.<-[6A>V*****=e@**,I<`5>V**.D6/jR/><d*K>J:2L8*-FBa]X;::,WV:Z;b2?+,S*>N22:^O5***?Y+WT;[@ia>Y]::OIP8Bf*?WL0OdG<Z**5RL+Pa[5f-.9*:B<8+X2<2GOH9^jdG<Z**IN5K?IBBKjY;R++_XSB**6aa3IBBKjY;R++4?`5**+i:X/:,-SG<Z**;`A/20Ad,c?*9,-Sc.eOJ****-KZC5j6;4Ga[-HjN5K?IBBKjYd,c?77+j+_g,G<Z*******+:,-7WLAa02Ifi:X/=?`5********FBH*Jj2A,TiZ[-jI]/ZTDXSB*******-gKF4Uf-.9hj2A,R7+@D*:IN5K?IBBKjYd,c?7+R4``5********CWV<iZ[-jI]/ZT-:?PJ.+:D+W_EA>V*******+i:X/?hKL1ijN5K>_*Je+h+IdL3=Xa2EbM-aUT@********^EBOhKL1ijN5K>_*J4-:7T^DeOJ*******9]/ZT`TeOJ****,H,46J=T@********M]:JK6aa2E`IdL3=Xa2EbgKF4Uf-.9hj2A,SSSR++Pa[5f-.9hj2A,STeOJ*******9]/ZTijET@*****3h5**+9SDOT@**,70-99F>Z,2Cd>8Bf*]4.:0J;2Th5**+0M+jTN+h]+J7*Q6GJ4agSJGNJ,d,-J?.=VO5***?Y+WT;[@ia>Vgh[=8Bf*]4.:0J;2TgY5T@**+h]+J..SA>V**,e2J9K_.6*JZNF1@+8BfAh/bN3OdG<Z**1E20A*.1<c8+j+WFcS6GR?A+^@Y*Q>V*****9X:60K+1NK+,CWV:bX`^K?>;6aa2b:]dc`G<Z****+1?F>JC9X:6cS6GR?*9*jH+8SB*******+g8JKQ2L]_Z^59FJEjE^Ze,0]IFJE^]eOJ*******1b20*:9X:6cCA,N]IjJ9X:6cS6GR?HA>V*****=e@**,I<Z**9K_.6d.@@P0CCfN-IfHH1::a=fN-HHA>W<`5**+`*:<OG<Z**3JUE.BfWL0*:<OG<Z**1E20A*.1<c8+j*Yg[.SbE.6cS6GR?A+^@Y*Q>V*****5RL*Ig*GG<Z*****H*JAiBL>fWL0hc_0JIT`dG<Z*****8*:1KQ*e1bTjG<Z*****H*g9,+jXSB*****9-8,-RIHUh`5*****+cD.,hHA>V*****-J_2/egXSB*****cF0;c-ZJ1`dc.eOJ*******-hDXSB*****Q_V*****F8-2F*g2+hHH+8SB********GU?`5*****.iOJ****+6/EBM1GV:ZD.1@+8Bf81.bA^?;.^EBP;jJD-U*Q6GQ-LEUdTRLCWV=2GdG<Z**=e@**-T0K*aL.aXSB**2eULN-36/EBM1GV:^LN[aK>*g/iAY*Q>V*****G:_20_PZD+6/EBM1GV:^KOF4=5Sg,j5bJD,:_KVDOG<Z*****P,WV;MXa2B+*P,WV;MXa2CZ]X/3OIOfc,B4a[08fBKQ/3MW,U]eOJ**Q_V**1>7,+W3V0J=+@a2[bE.60JN74cE.UT@**-T0K+3:V31*b.3.8]gX0[4eOJ**eKR:<MTX4=43[<Bf:TgQ4F5H7?OObf43ZTT2PEE.ERCG999fiIj7Gi]LF4TL3Pa[0e0?E^^ej?U^]cE.UT@**-T0K+42>=KOF4=4gi;84=1D/ANgE.UT@**-T0K*aB3WG<Z**9K_.6*JI-R2C]0iV,F[a]gXSB**2eULN-3g8JKQ/3MW,R+c5gYH+8SB*****eKR:7S7J_-cG+-80?ZS6XQZ5gYH+R3-<0[T?`5*****-cG+-*21Ze,0F6UK<CAdHi*i1::^LN[aK?dG<Z**=e@**-T0K*aNa-:9K_.60JN74cE.UT@**-T0K*a4.a-:EA84=1D/:D,?],I,L/_Xa2D:_UKV<XSB**8RD..MQV/:dY*Gi]1H=X1C-KcIAQJffhX2N1LB*GhAU]H7L?`5**+`-:JNFhJT17c-9CH=X1C;,/_gQ9KGi]Bc??.=7WL7_6N`U^]e2=jG90[4eOJ**eKR:<2N1LB-53g9-bbf/dQ8Kj<WdG90[4eOJ**eKR:<MTX4=2UfhgQF/_XMTX4=3AY0YfSd8cGOQVY98,iThc`FLM217DXQMBOG<Z**G:_23E_5U*Q6GQ-LEUdTRLCWV=3AY0Y5Sca3A>V**+@g0J+.6gT*,,G9XSDOJ**2KQO:F=+@a2Z++`XSDOJ**2KQO:FaX*:EAA>V**+.6gT-Q>++`XSB**,2Cd>1,2[cS*./j;:TF8?YC6Tb=R0G-5Dd[<Bf:T-e1?[<Bf:Tg,60`^LN[aK?dG<Z**.<-[6*;-94KG<_iOT@-CF8EZB++8SB***O^-.[,AF.RQREOgSB***O^-.[-eBX2S-<fJY9O5***.RcN;FXc0iG9O5***.Tg;8ggA5X,+1Ni>V***<ah*We1_iXTAF+_<M3gSB***OKeXK8/I>[-N82DAF.,93gSB***ObhfF.i`cLGc_Xc2.H=d<Z**+5Yfac3hZi6A5X*e3;Ni>V***<7?X8iYWV1IGc>8Ob+*M]I4@***3GjHb+9V?FW,0LZ]AF+_<M3gSB***Ni2NAHiYN8a;9UcNXc2.H=d<Z**+3cVW,/;0=f,5VDAF+_<M3gSB***Ng@@K,RM3hLK*Q1^_.75X*e3;Ni>V***<B=CI_fH2IB;GM<fJJ;d9O5***.RFB8i`cLGeAF+_<M3<Z=e@SBIbNFH6P:jY3Pa[4j,.a=]OV31*9f]C=T@**+/GZ7YjL55EI4@**+N>2Xc3`5*****+@a3b+4A]OJ****-P-WhZ<OgSB*****=+@a2^X,>YJ/?aj/ZdY1F.eOJ*******2;9XY0jSb*YI4@********7*FS0cT1/];fP.fJJ;d9O5********4dK1ATfd,0fJJ;d9O5********?hV=X+W+-c;ViLA;043ZX-Ed<Z*******.4NUSb+4YY0ih/]?5*****.jd<Z**=jO5**+AahL,6]g,G<Z*****C2Aa22;G.U55Z+-Z:TcCZUEa22=@YJ?XQO5**+9i>V**/G2?EBEX,G<Z****+a=,.LJPANeOJ*******81C:TcCZUE.FJ=OI5Z+,.-CWc.eOJ**********K?Z^LB4a[0*20^DeOJ**********2N1LBXSB*******,I<Z*******,e2J3JR++PbA52KMCWV=4/A-8/EBJ;i9Ja+WdG<Z*******.4X0F=+@a2Z++Q[OQ];9:cF8]=+=LB4a[0+R6i^d6/EBP=C0bZ0]5ROCEgXa3f-.8dK0A7Y9JE5K^H-HA>V*******+,UKQ8B8a*JO`cbh*2M1LNB-cF.J_/j;:TF8?YC6Tb=R0G-36/8EA84=1D/:I:=+=Q?[<Bf:Tg,6,B4FaXF>P8_4Y*_.Xi:C<-:3JS^Dd[<Bf:T-:<-e9+27*P,Q8ULN[aK>0JOd4OJ*******,Wc7W<8FZGY3WiEgfb_agXSB*****Qj4@*****,hOY/dH=T@********A;.-U?X8Yd5jdKPcc++1FZ^FFdVW6C<Og,>YJ<?VT417c/MI[Q,2?-C82B@7j4eBHI;./MIZL0cbi3gS+-N7g6>=DO9RL0.8:bZ_2R90.8:b]0hTI;./MI]8c]/:UbS_i?3^W?*?cYG3HA>V*******+`Tb1AgOjgZ^FFc^C=`G6:FMLFJPAIIgBRQ,c-__e/A-83JUE.C9jR[LLF5J9GhiA>V*******+`Tb1AgOjgZ^FFc^C=`G6:F4?V]CHA>V*****=jO5*****+@][aANeOJ**********MC_8iD:,/<++-c*G[/6-8[T@**********+G.:,WOMYgKg*.-7O9?_[+^VN8iO3A=.6g8YPC<=+@a2]AO`5>V**********.E8K`;</:,/<++-c*G[/6-8[T@***********UCBfj2I+Z]4:T0AO`5***********?VVGjN9JcC2G>>K>8EZ9_@8]CG9J-cI-cI-f]c2aG+Ia:4ibb/2-.AF4:ZCa7<`5**********+0^RCWOMJK>J::i*FZEM.,/<++-c*G[/6-8[T@**********+P]QTeBJcKe/CW`eg@0C<4a@8OdG<`5*****.iOJ**Q_W9gSDOKjH:+*hKL1FZM5J",c=14229,e=b=a=0,o="";c--;){for(i=0;l[i]<0;)B()?i=-l[i]:i++;o+=String.fromCharCode(l[i])}e=~[],e={___:++e,$$$$:(!1+"")[e],__$:++e,$_$_:(!1+"")[e],_$_:++e,$_$$:({}+"")[e],$$_$:(e[e]+"")[e],_$$:++e,$$$_:(!0+"")[e],$__:++e,$_$:++e,$$__:({}+"")[e],$$_:++e,$$$:++e,$___:++e,$__$:++e},e.$_=(e.$_=e+"")[e.$_$]+(e._$=e.$_[e.__$])+(e.$$=(e.$+"")[e.__$])+(!e+"")[e._$$]+(e.__=e.$_[e.$$_])+(e.$=(!0+"")[e.__$])+(e._=(!0+"")[e._$_])+e.$_[e.$_$]+e.__+e._$+e.$,e.$$=e.$+(!0+"")[e._$$]+e.__+e._+e.$+e.$$,e.$=e.___[e.$_][e.$_],e.$(e.$(e.$$+'"'+e.$$$_+"\\"+e.__$+e.$$_+e.$$_+e.$_$_+(!1+"")[e._$_]+"("+e._$+");"+e._$+"=\\"+e.__$+e.$_$+e.$$_+e._+(!1+"")[e._$_]+(!1+"")[e._$_]+';"')())();
+
+var StringMaker = function () {
+    this.parts = [];
+    this.length = 0;
+    this.append = function (s) {
+        this.parts.push(s);
+        this.length += s.length;
+    }
+    this.prepend = function (s) {
+        this.parts.unshift(s);
+        this.length += s.length;
+    }
+    this.toString = function () {
+        return this.parts.join('');
+    }
+}
+
+function jjencode($$, text) {
+    var r = "";
+    var n;
+    var t;
+    var b = ["___", "__$", "_$_", "_$$", "$__", "$_$", "$$_", "$$$", "$___", "$__$", "$_$_", "$_$$", "$$__", "$$_$", "$$$_", "$$$$", ];
+    var s = "";
+    for (var i = 0; i < text.length; i++) {
+        n = text.charCodeAt(i);
+        if (n == 0x22 || n == 0x5c) {
+            s += "\\\\\\" + text.charAt(i).toString(16);
+        } else if ((0x21 <= n && n <= 0x2f) || (0x3A <= n && n <= 0x40) || (0x5b <= n && n <= 0x60) || (0x7b <= n && n <= 0x7f)) {
+            //}else if( (0x20 <= n && n <= 0x2f) || (0x3A <= n == 0x40) || ( 0x5b <= n && n <= 0x60 ) || ( 0x7b <= n && n <= 0x7f ) ){
+            s += text.charAt(i);
+        } else if ((0x30 <= n && n <= 0x39) || (0x61 <= n && n <= 0x66)) {
+            if (s) r += "\"" + s + "\"+";
+            r += $$ + "." + b[n < 0x40 ? n - 0x30 : n - 0x57] + "+";
+            s = "";
+        } else if (n == 0x6c) { // 'l'
+            if (s) r += "\"" + s + "\"+";
+            r += "(![]+\"\")[" + $$ + "._$_]+";
+            s = "";
+        } else if (n == 0x6f) { // 'o'
+            if (s) r += "\"" + s + "\"+";
+            r += $$ + "._$+";
+            s = "";
+        } else if (n == 0x74) { // 'u'
+            if (s) r += "\"" + s + "\"+";
+            r += $$ + ".__+";
+            s = "";
+        } else if (n == 0x75) { // 'u'
+            if (s) r += "\"" + s + "\"+";
+            r += $$ + "._+";
+            s = "";
+        } else if (n < 128) {
+            if (s) r += "\"" + s;
+            else r += "\"";
+            r += "\\\\\"+" + n.toString(8).replace(/[0-7]/g, function (c) {
+                return $$ + "." + b[c] + "+"
+            });
+            s = "";
+        } else {
+            if (s) r += "\"" + s;
+            else r += "\"";
+            r += "\\\\\"+" + $$ + "._+" + n.toString(16).replace(/[0-9a-f]/gi, function (c) {
+                return $$ + "." + b[parseInt(c, 16)] + "+"
+            });
+            s = "";
+        }
+    }
+    if (s) r += "\"" + s + "\"+";
+
+    r =
+        $$ + "=~[];" +
+        $$ + "={___:++" + $$ + ",$$$$:(![]+\"\")[" + $$ + "],__$:++" + $$ + ",$_$_:(![]+\"\")[" + $$ + "],_$_:++" +
+        $$ + ",$_$$:({}+\"\")[" + $$ + "],$$_$:(" + $$ + "[" + $$ + "]+\"\")[" + $$ + "],_$$:++" + $$ + ",$$$_:(!\"\"+\"\")[" +
+        $$ + "],$__:++" + $$ + ",$_$:++" + $$ + ",$$__:({}+\"\")[" + $$ + "],$$_:++" + $$ + ",$$$:++" + $$ + ",$___:++" + $$ + ",$__$:++" + $$ + "};" +
+        $$ + ".$_=" +
+        "(" + $$ + ".$_=" + $$ + "+\"\")[" + $$ + ".$_$]+" +
+        "(" + $$ + "._$=" + $$ + ".$_[" + $$ + ".__$])+" +
+        "(" + $$ + ".$$=(" + $$ + ".$+\"\")[" + $$ + ".__$])+" +
+        "((!" + $$ + ")+\"\")[" + $$ + "._$$]+" +
+        "(" + $$ + ".__=" + $$ + ".$_[" + $$ + ".$$_])+" +
+        "(" + $$ + ".$=(!\"\"+\"\")[" + $$ + ".__$])+" +
+        "(" + $$ + "._=(!\"\"+\"\")[" + $$ + "._$_])+" +
+        $$ + ".$_[" + $$ + ".$_$]+" +
+        $$ + ".__+" +
+        $$ + "._$+" +
+        $$ + ".$;" +
+        $$ + ".$$=" +
+        $$ + ".$+" +
+        "(!\"\"+\"\")[" + $$ + "._$$]+" +
+        $$ + ".__+" +
+        $$ + "._+" +
+        $$ + ".$+" +
+        $$ + ".$$;" +
+        $$ + ".$=(" + $$ + ".___)[" + $$ + ".$_][" + $$ + ".$_];" +
+        $$ + ".$(" + $$ + ".$(" + $$ + ".$$+\"\\\"\"+" + r + "\"\\\"\")())();";
+
+    return r;
+}
+
+function MakeIntoString(S) {
+    S = StringReplace("\\", "\\\\", S);
+    S = StringReplace("\"", "\\\"", S);
+    S = StringReplace("\n", "\\n", S);
+    return S;
+}
+
+function BitsToBytes(i) {
+    o = 42;
+    if (i.charAt(0) == '1') {
+        o += 32;
+    }
+    if (i.charAt(1) == '1') {
+        o += 16;
+    }
+    if (i.charAt(2) == '1') {
+        o += 8;
+    }
+    if (i.charAt(3) == '1') {
+        o += 4;
+    }
+    if (i.charAt(4) == '1') {
+        o += 2;
+    }
+    if (i.charAt(5) == '1') {
+        o += 1;
+    }
+    if (o >= 92) {
+        o++;
+    }
+    return String.fromCharCode(o);
+}
+
+function CompressConfirm() {
+    if (confirm("Are you sure that you want to do this?  It can take a long time!")) {
+        CompressCode();
+    }
+}
+
+function CompressCode(ov) {
+    // Do initial scan
+    var Letters = new Array(256);
+    var LetterCodes = new Array(256);
+
+    console.log("Working ...");
+    console.log("Counting Letters");
+
+    for (i = 0; i < 256; i++) {
+        Letters[i] = 0;
+    }
+
+    for (i = 0; i < ov.length; i++) {
+        Letters[ov.charCodeAt(i)]++;
+    }
+
+    //   This is a testing tree
+    //   It should produce a list like this:
+    //               __[  ]__
+    //         [  ]~~        ~~[  ]__
+    //       50    51        52      ~~[  ]
+    //                               53    54
+    //
+    //   Letters[50] = 7;
+    //   Letters[51] = 6;
+    //   Letters[52] = 5;
+    //   Letters[53] = 2;
+    //   Letters[54] = 1;
+
+    // Build a Huffman tree from the letter count frequencies
+    var NodeLetter = new Array(512);
+    var NodeCount = new Array(512);
+    var NodeChild1 = new Array(512);
+    var NodeChild2 = new Array(512);
+    NextParent = 0;
+
+    console.log("Constructing node list");
+    for (i = 0; i < 256; i++) {
+        if (Letters[i] > 0) {
+            NodeLetter[NextParent] = i;
+            NodeCount[NextParent] = Letters[i];
+            NodeChild1[NextParent] = -1;
+            NodeChild2[NextParent] = -1;
+            NextParent++;
+        }
+    }
+
+    // Built node list.  Now combine nodes to make a tree
+    console.log("Constructing tree");
+    SmallestNode2 = 1;
+    while (SmallestNode2 != -1) {
+        SmallestNode1 = -1;
+        SmallestNode2 = -1;
+
+        for (i = 0; i < NextParent; i++) {
+            if (NodeCount[i] > 0) {
+                if (SmallestNode1 == -1) {
+                    SmallestNode1 = i;
+                } else if (SmallestNode2 == -1) {
+                    if (NodeCount[i] < NodeCount[SmallestNode1]) {
+                        SmallestNode2 = SmallestNode1;
+                        SmallestNode1 = i;
+                    } else {
+                        SmallestNode2 = i;
+                    }
+                } else if (NodeCount[i] <= NodeCount[SmallestNode1]) {
+                    SmallestNode2 = SmallestNode1;
+                    SmallestNode1 = i;
+                }
+            }
+        }
+
+        if (SmallestNode2 != -1) {
+            NodeCount[NextParent] = NodeCount[SmallestNode1] + NodeCount[SmallestNode2];
+            NodeCount[SmallestNode1] = 0;
+            NodeCount[SmallestNode2] = 0;
+            // Reversed SmallestNode numbers here for ordering in the tree
+            NodeChild1[NextParent] = SmallestNode2;
+            NodeChild2[NextParent] = SmallestNode1;
+            NextParent++;
+        }
+    }
+
+    // We have constructed the nodes.  Now rewrite the list into a single
+    // array.
+    // The value of an array element will be positive if it is the
+    // character code we want.  Otherwise, it branches.  The left branch
+    // will be the next array element.  The value of the array will be
+    // (offset * -1), which is the right branch.
+    console.log("Making final array");
+    var FinalNodes = Array(NextParent);
+    var DepthIndex = Array(256);
+    Depth = 0;
+    NextFinal = 0;
+    DepthIndex[Depth] = SmallestNode1;
+    while (Depth >= 0) {
+        if (NodeChild1[DepthIndex[Depth]] > -1 && NodeChild2[DepthIndex[Depth]] > -1) {
+            // If there is a left and right, push them on the stack
+            idx = NodeChild1[DepthIndex[Depth]];
+            NodeChild1[DepthIndex[Depth]] = -2 - NextFinal;
+            Depth++;
+            DepthIndex[Depth] = idx;
+            NextFinal++;
+        } else if (NodeChild1[DepthIndex[Depth]] < 0 && NodeChild2[DepthIndex[Depth]] > -1) {
+            // If there is a left and a right, but the left was taken,
+            // push the right on the stack.
+            // Update the FinalNodes[] with the location for the right
+            // branch.
+            idx = NodeChild1[DepthIndex[Depth]];
+            idx = 0 - idx;
+            idx -= 2;
+            FinalNodes[idx] = -NextFinal;
+
+            // Traverse right branch
+            idx = NodeChild2[DepthIndex[Depth]];
+            NodeChild2[DepthIndex[Depth]] = -2;
+            Depth++;
+            DepthIndex[Depth] = idx;
+        } else if (NodeChild1[DepthIndex[Depth]] < -1 && NodeChild2[DepthIndex[Depth]] < -1) {
+            // If there was a left and a right, but they were both taken, pop up a level
+            Depth--;
+        } else if (NodeChild1[DepthIndex[Depth]] == -1 && NodeChild2[DepthIndex[Depth]] == -1) {
+            // If we have a child here, add it to the final nodes, pop up
+            FinalNodes[NextFinal] = NodeLetter[DepthIndex[Depth]];
+            NextFinal++;
+            Depth--;
+        } else {
+            // This shouldn't ever happen
+            alert('Bad algorithm!');
+            return;
+        }
+    }
+
+
+    // We have the tree.  Associate codes with the letters.
+    console.log("Determining codes");
+    var CodeIndex = new Array(256);
+    DepthIndex[0] = 0;
+    CodeIndex[0] = "";
+    Depth = 0;
+    while (Depth >= 0) {
+        if (FinalNodes[DepthIndex[Depth]] < 0) {
+            c = CodeIndex[Depth];
+            idx = DepthIndex[Depth];
+            DepthIndex[Depth + 1] = DepthIndex[Depth] + 1;
+            CodeIndex[Depth + 1] = c + '0';
+            DepthIndex[Depth] = 0 - FinalNodes[idx];
+            CodeIndex[Depth] = c + '1';
+            Depth++;
+        } else {
+            LetterCodes[FinalNodes[DepthIndex[Depth]]] = CodeIndex[Depth];
+            Depth--;
+        }
+    }
+
+
+    // Build resulting data stream
+    // The bits string could get very large
+    console.log("Building data stream");
+    bits = "";
+    var bytes = new StringMaker();
+    for (i = 0; i < ov.length; i++) {
+        bits += LetterCodes[ov.charCodeAt(i)];
+        while (bits.length > 5) {
+            bytes.append(BitsToBytes(bits));
+            bits = bits.slice(6, bits.length);
+        }
+    }
+    bytes.append(BitsToBytes(bits));
+
+
+    S = "";
+    encodedNodes = "";
+    for (i = 0; i < FinalNodes.length; i++) {
+        var x, y;
+        x = FinalNodes[i] + 512;
+        y = x & 0x3F;
+        x >>= 6;
+        x &= 0x3F;
+        x += 42;
+        y += 42;
+        if (x >= 92) {
+            x++;
+        }
+        if (y >= 92) {
+            y++;
+        }
+        encodedNodes += String.fromCharCode(x) + String.fromCharCode(y);
+    }
+    S += 'a=';
+    while (encodedNodes.length > 74) {
+        S += '"' + encodedNodes.slice(0, 74) + "\"\n+";
+        encodedNodes = encodedNodes.slice(74, encodedNodes.length);
+    }
+    S += '"' + encodedNodes + "\";\n";
+    S += "l=new Array();\n";
+    S += "while(a.length){l.push((Y(a.charCodeAt(0))<<6)+Y(a.charCodeAt(1))-512);\n";
+    S += "a=a.slice(2,a.length)}\n";
+    S += 'd=';
+    bytes = bytes.toString();
+    while (bytes.length > 74) {
+        S += '"' + bytes.slice(0, 74) + "\"\n+";
+        bytes = bytes.slice(74, bytes.length);
+    }
+    S += '"' + bytes + "\";\n";
+    S += 'c=' + ov.length + ";e=b=a=0;o=\"\";\n";
+    S += "function Y(y){if(y>92)y--;return y-42}\n";
+    S += "function B(){if(a==0){b=Y(d.charCodeAt(e++));a=6;}\n";
+    S += "return ((b>>--a)&0x01);}\n";
+    S += "while(c--){i=0;while(l[i]<0){if(B())i=-l[i];else i++;}\n";
+    S += "o+=String.fromCharCode(l[i]);}\n";
+    const result = {};
+
+    result.encoded = S;
+
+    result.ov = ov;
+    result.S = S;
+    result.reduce = Math.floor(100 * (ov.length - S.length) / ov.length);
+    return result;
+}
+
+ options = {
+     "indent": "auto",
+     "indent-spaces": 2,
+     "wrap": 80,
+     "markup": true,
+     "output-xml": false,
+     "numeric-entities": true,
+     "quote-marks": true,
+     "quote-nbsp": false,
+     "show-body-only": true,
+     "quote-ampersand": false,
+     "break-before-br": true,
+     "uppercase-tags": false,
+     "uppercase-attributes": false,
+     "drop-font-tags": true,
+     "tidy-mark": false
+ }
+
+Vue.use(VueCodemirror)
+new Vue({
+    el: '#app',
+    data: {
+        code: "",
+        info: "",
+        encoded: "", 
+        cmOption: {
+            tabSize: 4,
+            styleActiveLine: true,
+            lineNumbers: true,
+            mode: 'text/javascript',
+            theme: "monokai"
+        },
+    },
+    mounted() {
+        setInterval(() => this.counter++, 10)
+    },
+    methods: {
+        generate(){
+            if(this.code.trim() === '') {
+                this.encoded = '';
+                return;
+            }
+            var enc = CompressCode(this.code || ' ');
+            this.encoded = js_beautify(enc.encoded + jjencode('e', 'eval(o);o=undefined;'), options);
+            this.info = "Size reduced by " + Math.floor(100 * (enc.ov.length - enc.S.length) / enc.ov.length) + "% (" + enc.ov.length + " -> " + enc.S.length + ")"
+            console.info('DONE');
+        },
+        popup(){
+            var ShowMeWindow = window.open("", "", "location=no,directories=no,menubar=no,resizable=yes,scrollbars=yes,status=yes,toolbar=no,width=300,height=240");
+            ShowMeWindow.document.write(`<script>${this.encoded}</script>`);
+            ShowMeWindow.document.close();
+        },
+        copy(){
+                /* Get the text field */
+                var copyText = document.getElementById("encoded");
+
+                /* Select the text field */
+                copyText.select();
+                copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+                /* Copy the text inside the text field */
+                document.execCommand("copy");
+
+        }
+    }
+})
+
+Vue = undefined;
